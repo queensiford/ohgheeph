@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://phooching.prachar.eu/sitemap.xml
